@@ -1,0 +1,2 @@
+# course-management-system
+The project was develop in order to built the course registration system for the college was built where the admin can manage the course for the students using the CRUD(Create, read, update and delete) and student can enroll the course, instructor can be able to view the modules and add marks to the student’s module using java with the help of intellij IDE along with the class diagram
