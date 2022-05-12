@@ -1,0 +1,7 @@
+course name:BBA		student id:02		first name:Gala		last name:Shares		email address:Jimmyshrestha2001@gmail.com		contact:9841475264		level:05		module name:null		module id:null
+course name:BBA		student id:19		first name:Jimmy		last name:Shares		email address:Jimmyshrestha2001@gmail.com		contact:984126433145		level:5		module name:null		module id:null
+course name:BBA		student id:17		first name:Ashish		last name:Dhakal		email:Ashish@gmail.com		contact:982727366		level:6		module name:CA,Financial		module id:16,17
+course name:BBA		student id:20		first name:Metero		last name:Thapa		email:Metero@gmail.com		contact:92383838536		level:6		module name:High level Account,Business Mathematics		module id:10,15
+course name:BBA		student id:80		first name:Vaibhav		last name:Thapa		email:vaibhav@gmail.com		contact:63467646		level:6		module name:Accountacy,financial		module id:16,17
+course name:BBA 	student id:40		first name:Hari		last name:Poudel		email:Hari@gmail.com		contact:98727275764		level:6		module name:High CA,B.Maths		module id:90,70
+course name:BBA		student id:18		first name:Sanjay		last name:Sharma		email:sanjay@gmail.com		contact:9845324548		level:5		module name:null		module id:null

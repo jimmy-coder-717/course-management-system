@@ -1,0 +1,10 @@
+course name:BIT		module name:Data complexity		module id:14		instructor name:Hart		level:5
+course name:BIT		module name:Artificial Intelligence		module id:13		instructor name:Helium		level:4
+course name:BIT		module name:Web development		module id:12		instructor name:Harry		level:5
+course name:BIT		module name:UI/UX		module id:11		instructor name:Carry		level:4
+course name:BIT		module name:Machine Learning		module id:09		instructor name:Justin		level:4
+course name:BIT		module name:Personal Development		module id:17		instructor name:Ridhi Shrestha		level:4
+course name:BIT		module name:Game development		module id:20		instructor name:Sugandi		level:5
+course name:BIT		module name:Software Engineer		module id:18		instructor name:Rakesh Shrestha		level:5
+course name:BIT		module name:Big data,Data Complexity,Cloud Computing, UI/UX		module id:70,80,90,95		instructor name:Sujan Zimba		level:6
+course name:BIT		module name:C programming		module id:15		instructor name:Aryan		level:5

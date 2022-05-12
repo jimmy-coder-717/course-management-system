@@ -1,0 +1,9 @@
+course name:BIT		student id:Np03a190217		first name:Ramila		last name:Shares		email:Ramilashrestha32@gmail.com		contact:9841726399		level:05		module name:null		module id:null
+course name:BIT		student id:np03a190214		first name:Vaclav		last name:Tap		email:Mrvaibhav@gmail.com		contact:9841257892		level:05		module name:null		module id:null
+course name:BIT		student id:np03a128144		first name:Alice		last name:Go		email:AliceGo@gmail.com		contact:9824343243		level:6		module name:Artificial,Data,CLoud		module id:15,14,16
+course name:BIT		student id:np03a190234		first name:Tashi		last name:Lama		email:Tashilama@gmail.com		contact:2432142121		level:4		module name:null		module id:null
+course name:BIT		student id:np03a190324		first name:Walter		last name:Hunt		email:walterhunt@gmail.com		contact:98242743274		level:6		module name:java,data		module id:10,14
+course name:BIT		student id:np03a190213		first name:Dhiwan		last name:Shrestha		email:dhiwan@gmail.com		contact:34323232643		level:6		module name:Artificial,data		module id:13,14
+course name:BIT		student id:np03a190671		first name:Kritika 		last name:Tuladhar		email:kritika@gmail.com		contact:9285353		level:5		module name:null		module id:null
+course name:BIT		student id:np03a190217		first name:Prashant 		last name:Khanal		email:Prashant@gmail.com		contact:9824567897		level:6		module name:UI/UX, Cloud Computing		module id:95,90
+course name:BIT		student id:np03a18921		first name:Manish		last name:Adhikari		email:Manish@gmail.com		contact:9243289532		level:5		module name:null		module id:null

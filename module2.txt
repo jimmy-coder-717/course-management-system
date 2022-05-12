@@ -1,0 +1,5 @@
+course name:BBA		module name:Finance Simple		module id:15		instructor name:Kamala Shrestha		level:4
+course name:BBA		module name:Business Maths		module id:16		instructor name:Shyam Kumar		level:4
+course name:BBA		module name:CA		module id:17		instructor name:Finny		level:4
+course name:BBA		module name:Accounting		module id:51		instructor name:Harry		level:5
+course name:BBA		module name:High CA,B.Maths,CMat,GMat		module id:90,70,80,95		instructor name:Viten		level:6

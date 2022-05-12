@@ -1,0 +1,72 @@
+-------Result Slip---------
+student name:Ramila Shrestha
+student id:Np03a190217	
+course name:BIT
+level:05
+Total Marks Gained Is :310
+Percentage Gained Is :77.0
+Your Grade Is B+.Proceed to next Level
+
+-------Result Slip---------
+student name:Alice Go
+student id:np03a128144	
+course name:BIT
+level:6
+Total Marks Gained Is :340
+Percentage Gained Is :85.0
+Your Grade Is A.Proceed to next Level
+
+-------Result Slip---------
+student name:Prashant Khanal
+student id:np03a190217	
+course name:BIT
+level:6
+Total Marks Gained Is :350
+Percentage Gained Is :87.0
+Your Grade Is A.Proceed to next Level
+
+-------Result Slip---------
+student name:Dhiwan Shrestha
+student id:np03a190213
+course name:BIT
+level:6
+Total Marks Gained Is :335
+Percentage Gained Is :83.0
+Your Grade Is A.Proceed to next Level
+
+-------Result Slip---------
+student name:Samikshya Thapa
+student id:np03a1281
+course name:BIT
+level:05
+Total Marks Gained Is :285
+Percentage Gained Is :71.0
+Your Grade Is B+.Proceed to next Level
+
+-------Result Slip---------
+student name:Ramila Shrestha
+student id:Np03a190217	
+course name:BIT
+level:05
+Total Marks Gained Is :310
+Percentage Gained Is :77.0
+Your Grade Is B+.Proceed to next Level
+
+-------Result Slip---------
+student name:Jimmy Shares
+student id:19
+course name:BBA
+level:5
+Total Marks Gained Is :350
+Percentage Gained Is :87.0
+Your Grade Is A.Proceed to next Level
+
+-------Result Slip---------
+student name:Sanjay Sharma
+student id:18
+course name:BBA
+level:5
+Total Marks Gained Is :325
+Percentage Gained Is :81.0
+Your Grade Is A.Proceed to next Level
+

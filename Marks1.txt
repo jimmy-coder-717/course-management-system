@@ -1,0 +1,60 @@
+****Marks Obtained***
+course name:BIT
+Student Id :np03a190214
+student name:Vaclav Tap
+level:05
+Module 1 :70
+Module 2 :80
+Module 3 :90
+Module 4 :85
+
+****Marks Obtained***
+course name:BIT
+Student Id :Np03a190217	
+student name:Ramila Shrestha
+level:05
+Module 1 :70
+Module 2 :75
+Module 3 :80
+Module 4 :85
+
+****Marks Obtained***
+course name:BIT
+Student Id :np03a1281
+student name:Samikshya Thapa
+level:05
+Module 1 :55
+Module 2 :75
+Module 3 :80
+Module 4 :75
+
+****Marks Obtained***
+course name:BIT
+Student Id :np03a128144	
+student name:Alice Go
+level:6
+Module 1 :80
+Module 2 :85
+Module 3 :95
+Module 4 :80
+
+****Marks Obtained***
+course name:BIT
+Student Id :np03a190213
+student name:Dhiwan Shrestha
+level:6
+Module 1 :70
+Module 2 :80
+Module 3 :90
+Module 4 :85
+
+****Marks Obtained***
+course name:BIT
+Student Id :np03a190217	
+student name:Prashant Khanal
+level:6
+Module 1 :90
+Module 2 :95
+Module 3 :80
+Module 4 :85
+

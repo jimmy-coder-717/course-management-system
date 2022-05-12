@@ -1,0 +1,20 @@
+****Marks Obtained***
+course name:BBA
+Student Id :19
+student name:Jimmy Shares
+level:5
+Module 1:80
+Module 2:85
+Module 3:90
+Module 4:95
+
+****Marks Obtained***
+course name:BBA
+Student Id :18
+student name:Sanjay Sharma
+level:5
+Module 1:80
+Module 2:70
+Module 3:90
+Module 4:85
+
